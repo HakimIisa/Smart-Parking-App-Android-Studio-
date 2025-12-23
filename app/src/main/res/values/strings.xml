@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Smart Park</string>
+    <string name="logo_description">App Logo</string>
+    <string name="find_parking">Find Parking</string>
+    <string name="add_parking">+ Add Parking</string>
+    <string name="add_parking_title">Add Parking</string>
+    <string name="hint_capacity">Capacity</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_parking_name">Parking Name</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="login_title">Owner Login</string>
+    <string name="login_button">Login</string>
+    <string name="dashboard_title">Parking Dashboard</string>
+    <string name="parking_spot_name">Parking Spot Name:</string>
+    <string name="current_availability">Available Spots:</string>
+    <string name="hint_new_availability">Enter New Availability</string>
+    <string name="update_availability_button">Update Availability</string>
+
+
+
+
+</resources>
